@@ -7,17 +7,17 @@ var menu = " \
       * [DE MARBRE](2DeMarbre.htm) \
       * [X.BEIJING](3XBeijing.htm) \
       * [SANS TITRE](4SansTitre.htm) \
-      * [Ballon d'essai](5Ballons.htm) \
-      * [Dos au mur](6DosAuMur.htm) \
-      * [Plis Plissés #3](7PlisPlisses3.htm) \
-      * [Plis Plissés #2](8PlisPlisses2.htm) \
-      * [Still](9Still.htm) \
-      * [Rem Koolhass game](10RemKoolhassGame.htm) \
-      ##### Éditions \
-      * [Générations](/E1Generations.htm) \
-      ##### Information \
-      * [contact](/contact.htm) \
-      * [home](/) \
-      * [liens](/liens.htm) \
+      * [BALLON D'ESSAI](5Ballons.htm) \
+      * [DOS AU MUR](6DosAuMur.htm) \
+      * [PLIS PLISSÉS #3](7PlisPlisses3.htm) \
+      * [PLIS PLISSÉS #2](8PlisPlisses2.htm) \
+      * [STILL](9Still.htm) \
+      * [REM KOOLHASS GAME](10RemKoolhassGame.htm) \
+      ##### ÉDITIONS \
+      * [GÉNÉRATIONS](/E1Generations.htm) \
+      ##### INFORMATIONS \
+      * [Contact](/contact.htm) \
+      * [Home](/) \
+      * [Liens](/liens.htm) \
     </div> \
 ";
