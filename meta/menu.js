@@ -13,6 +13,9 @@ var menu = " \
       * [PLIS PLISSÉS #2](8PlisPlisses2.htm) \
       * [STILL](9Still.htm) \
       * [REM KOOLHASS GAME](10RemKoolhassGame.htm) \
+      * [SOUS LES TRAITS](11SousLesTraits.htm) \
+      * [POINTILLÉ](12Pointille.htm) \
+      * [NACH NACHT](13NachNacht.htm) \
       ##### ÉDITIONS \
       * [GÉNÉRATIONS](/E1Generations.htm) \
       ##### INFORMATIONS \
