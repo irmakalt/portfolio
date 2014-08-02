@@ -3,8 +3,8 @@ var menu = " \
       # [IRMA KALT](index.htm) \
       <br/> \
       ##### Travaux \
-      * [1Piscine123](1Piscine123.htm) \
-      * [2DeMarbre](2DeMarbre.htm) \
+      * [Piscine](1Piscine123.htm) \
+      * [De marbre](2DeMarbre.htm) \
       ##### Information \
       * [contact](/contact.htm) \
       * [home](/) \
