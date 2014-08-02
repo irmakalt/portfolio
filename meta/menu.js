@@ -5,6 +5,8 @@ var menu = " \
       ##### Travaux \
       * [Piscine](1Piscine123.htm) \
       * [De marbre](2DeMarbre.htm) \
+      ##### Éditions \
+      * [Générations](/E1Generations.htm) \
       ##### Information \
       * [contact](/contact.htm) \
       * [home](/) \
