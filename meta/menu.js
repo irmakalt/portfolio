@@ -8,7 +8,6 @@ var menu = " \
       ##### Information \
       * [contact](/contact.htm) \
       * [home](/) \
-      * [biographie](/clients/sony/) \
       * [liens](/liens.htm) \
     </div> \
 ";
