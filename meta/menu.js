@@ -1,11 +1,11 @@
 var menu = " \
     <div id=\"menu\" data-markdown> \
-      # [Irma](/) \
+      # [Irma](index.htm) \
       <br/> \
       ##### Drawings \
       * [Notes pour sculptures](kiosk.htm) \
       ##### Prints \
-      * [Vrac](/vrac.htm) \
+      * [Vrac](1Piscine123.htm) \
       ##### Info \
       * [contact](/contact.htm) \
       * [home](/) \
