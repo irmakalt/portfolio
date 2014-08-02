@@ -1,12 +1,11 @@
 var menu = " \
     <div id=\"menu\" data-markdown> \
-      # [Irma](index.htm) \
+      # [IRMA KALT](index.htm) \
       <br/> \
-      ##### Drawings \
-      * [Notes pour sculptures](kiosk.htm) \
-      ##### Titrerererererer \
+      ##### Travaux \
       * [1Piscine123](1Piscine123.htm) \
-      ##### Info \
+      * [2DeMarbre](2DeMarbre.htm) \
+      ##### Information \
       * [contact](/contact.htm) \
       * [home](/) \
       * [biographie](/clients/sony/) \
