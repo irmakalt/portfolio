@@ -17,10 +17,8 @@ var menu = " \
       * [POINTILLÉ](12Pointille.htm) \
       * [NACH NACHT](13NachNacht.htm) \
       ##### ÉDITIONS \
-      * [GÉNÉRATIONS](/E1Generations.htm) \
+      * [GÉNÉRATIONS](E1Generations.htm) \
       ##### INFORMATIONS \
       * [Contact](/contact.htm) \
-      * [Home](/) \
-      * [Liens](/liens.htm) \
     </div> \
 ";
