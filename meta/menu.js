@@ -2,6 +2,7 @@ var menu = " \
     <div id=\"menu\" data-markdown> \
       # [IRMA KALT](index.htm) \
       <br/> \
+      #### TRAVAUX \
       * [TEXTE](1Atexteintro.htm) \
       #### TRAVAUX \
       * [PISCINE](1Piscine123.htm) \
