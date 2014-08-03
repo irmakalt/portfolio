@@ -19,6 +19,6 @@ var menu = " \
       ##### ÉDITIONS \
       * [GÉNÉRATIONS](E1Generations.htm) \
       ##### INFORMATIONS \
-      * [Contact](/contact.htm) \
+      * [Contact](contact.htm) \
     </div> \
 ";
