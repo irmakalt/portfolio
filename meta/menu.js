@@ -2,7 +2,9 @@ var menu = " \
     <div id=\"menu\" data-markdown> \
       # [IRMA KALT](index.htm) \
       <br/> \
-      ##### TRAVAUX \
+      #### TEXTE \
+      * (1Atexteintro.htm) \
+      #### TRAVAUX \
       * [PISCINE](1Piscine123.htm) \
       * [DE MARBRE](2DeMarbre.htm) \
       * [X.BEIJING](3XBeijing.htm) \
@@ -16,9 +18,9 @@ var menu = " \
       * [SOUS LES TRAITS](11SousLesTraits.htm) \
       * [POINTILLÉ](12Pointille.htm) \
       * [NACH NACHT](13NachNacht.htm) \
-      ##### ÉDITIONS \
+      #### ÉDITIONS \
       * [GÉNÉRATIONS](E1Generations.htm) \
-      ##### INFORMATIONS \
+      #### INFORMATIONS \
       * [Contact](contact.htm) \
     </div> \
 ";
