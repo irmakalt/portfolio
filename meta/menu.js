@@ -5,21 +5,21 @@ var menu = " \
       #### TEXTE \
       * [...](1Atexteintro.htm) \
       #### TRAVAUX \
-      * [PISCINE](1Piscine123.htm) \
-      * [DE MARBRE](2DeMarbre.htm) \
-      * [X.BEIJING](3XBeijing.htm) \
-      * [SANS TITRE](4SansTitre.htm) \
-      * [BALLON D'ESSAI](5Ballons.htm) \
-      * [DOS AU MUR](6DosAuMur.htm) \
-      * [PLIS PLISSÉS #3](7PlisPlisses3.htm) \
-      * [PLIS PLISSÉS #2](8PlisPlisses2.htm) \
-      * [STILL](9Still.htm) \
-      * [REM KOOLHASS GAME](10RemKoolhassGame.htm) \
-      * [SOUS LES TRAITS](11SousLesTraits.htm) \
-      * [POINTILLÉ](12Pointille.htm) \
-      * [NACH NACHT](13NachNacht.htm) \
+      * [Piscine](1Piscine123.htm) \
+      * [De marbre](2DeMarbre.htm) \
+      * [X.Beijing](3XBeijing.htm) \
+      * [Sans titre](4SansTitre.htm) \
+      * [Ballon d'essai](5Ballons.htm) \
+      * [Dos au mur](6DosAuMur.htm) \
+      * [Plis plissés #3](7PlisPlisses3.htm) \
+      * [Plis plissés #2](8PlisPlisses2.htm) \
+      * [Still](9Still.htm) \
+      * [Rem Koolhass game](10RemKoolhassGame.htm) \
+      * [Sous les traits](11SousLesTraits.htm) \
+      * [Pointillé](12Pointille.htm) \
+      * [Nach nacht](13NachNacht.htm) \
       #### ÉDITIONS \
-      * [GÉNÉRATIONS](E1Generations.htm) \
+      * [Générations](E1Generations.htm) \
       #### INFORMATIONS \
       * [Contact](contact.htm) \
     </div> \
