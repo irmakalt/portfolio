@@ -16,10 +16,9 @@ var menu = " \
       * [Still](9Still.htm) \
       * [Rem Koolhass game](10RemKoolhassGame.htm) \
       * [Sous les traits](11SousLesTraits.htm) \
+      * [Générations](E1Generations.htm) \
       * [Pointillé](12Pointille.htm) \
       * [Nach nacht](13NachNacht.htm) \
-      #### ÉDITIONS \
-      * [Générations](E1Generations.htm) \
       #### INFORMATIONS \
       * [Contact](contact.htm) \
     </div> \
