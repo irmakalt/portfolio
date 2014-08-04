@@ -6,13 +6,9 @@ var menu = " \
       * [...](1Atexteintro.htm) \
       #### TRAVAUX \
       * [Piscine](1Piscine123.htm) \
-      <br/> \
       * [De marbre](2DeMarbre.htm) \
-      <br/> \
       * [X.Beijing](3XBeijing.htm) \
-      <br/> \
       * [Sans titre](4SansTitre.htm) \
-      <br/> \
       * [Ballon d'essai](5Ballons.htm) \
       * [Dos au mur](6DosAuMur.htm) \
       * [Plis plissés #3](7PlisPlisses3.htm) \
