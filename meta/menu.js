@@ -5,6 +5,7 @@ var menu = " \
       #### TEXTE \
       * [...](1Atexteintro.htm) \
       #### TRAVAUX \
+      * [Extrait](2015-Busan.htm) \
       * [Drapeau](2015-Drapeau.htm) \
       * [Piscine](1Piscine123.htm) \
       * [De marbre](2DeMarbre.htm) \
