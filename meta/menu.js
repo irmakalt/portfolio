@@ -6,7 +6,7 @@ var menu = " \
       * [...](1Atexteintro.htm) \
       #### TRAVAUX \
       * [Extrait](2015-Busan.htm) \
-      * [7 pour 13](7pour13.htm) \
+      * [7 pour 13](2015-7pour13.htm) \
       * [Drapeau](2015-Drapeau.htm) \
       * [Piscine](1Piscine123.htm) \
       * [De marbre](2DeMarbre.htm) \
