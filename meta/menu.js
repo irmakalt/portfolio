@@ -17,7 +17,7 @@ var menu = " \
       * [X.Beijing](3XBeijing.htm) \
       * [Sans titre](4SansTitre.htm) \
       * [Ballon d'essai](5Ballons.htm) \
-      * [Dos au mur](6DosAuMur.htm) \
+      * [Dos au mur](2012-DosAuMur.htm) \
       * [Plis plissés #3](7PlisPlisses3.htm) \
       * [Plis plissés #2](8PlisPlisses2.htm) \
       * [Still](9Still.htm) \
