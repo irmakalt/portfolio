@@ -25,6 +25,10 @@
               timeout: 0,
 
           $(document).keydown(function(evt) {
+              if (evt.keyCode == 39) // Right Arrow
+                  $("#k1-next").click();
+              if (evt.keyCode == 37) // Left Arrow
+                  $("#k1-prev").click();
         });
       });
     </script>
