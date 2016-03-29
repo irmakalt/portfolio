@@ -16,7 +16,7 @@ var menu = " \
       * [De marbre](2DeMarbre.htm) \
       * [X.Beijing](3XBeijing.htm) \
       * [Sans titre](4SansTitre.htm) \
-      * [Ballon d'essai](5Ballons.htm) \
+      * [Ballon d'essai](2012-Ballon.htm) \
       * [Dos au mur](2012-DosAuMur.htm) \
       * [Plis plissés #3](7PlisPlisses3.htm) \
       * [Plis plissés #2](8PlisPlisses2.htm) \
