@@ -23,6 +23,7 @@
           $("#k1").cycle({
               fx: "fade", speed: "2000",
               timeout: 0,
+              next: "#k1-next", prev: "#k1-prev" });
 
           $(document).keydown(function(evt) {
               if (evt.keyCode == 39) // Right Arrow
