@@ -24,7 +24,7 @@ var menu = " \
       * [Rem Koolhass game](10RemKoolhassGame.htm) \
       * [Sous les traits](11SousLesTraits.htm) \
       * [En chantier](2015-EnChantier.htm) \
-      * [Générations](E1Generations.htm) \
+      * [Générations](2011-Generations.htm) \
       * [Pointillé](12Pointille.htm) \
       * [Nach nacht](13NachNacht.htm) \
       #### INFORMATIONS \
