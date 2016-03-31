@@ -4,7 +4,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en">
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-    <title> IRMA KALT </title>
+    <title>IRMA KALT</title>
     <script type="text/javascript" src="meta/menu.js"></script>
     <script type="text/javascript" src="meta/jquery.min.js"></script>
     <script type="text/javascript" src="meta/jquery.cycle.all.js"></script>
@@ -19,39 +19,31 @@
   <body>
     <script type="text/javascript">
       document.write(menu);
-      $(document).ready(function () {
-          $("#k1").cycle({
-              fx: "fade", speed: "2000",
-              timeout: 0,
-              next: "#k1-next", prev: "#k1-prev" });
-
-          $(document).keydown(function(evt) {
-              if (evt.keyCode == 39) // Right Arrow
-                  $("#k1-next").click();
-              if (evt.keyCode == 37) // Left Arrow
-                  $("#k1-prev").click();
-        });
-      });
     </script>
 
     <div id="content" data-markdown>
       <div class="kiosk" id="k1">
-        <div><img src="9Still/Still-a.jpg"/><p><strong><em>Still</em></strong>, 2012 </p>
-        <p>Série de 16 battons, bois, rubalise. Format 240x3cm</p>
-        <p>Vue d'atelier</p></div>
-        <div><img src="9Still/Still-b.jpg"/></div>
+        <div><img src="2012-Still/Still-a.jpg"/><p><strong><em>Still</em></strong>, 2012 </p>
+        <p>Série de 16 battons, bois, rubalise
+        <br/>Format 240x3cm
+        <br/>Vue d'atelier</p></div>
+        <br/>
+        <br/>
+
+        <div><img src="2012-Still/Still-b.jpg"/></div>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        
       </div>
       <div class="legend">
-        
-        
-        
-
-        <a id="k1-prev" href="#">Prev</a> | <a id="k1-next" href="#">Next</a>
-        <span id="num"></span>
       </div>
 
-    </div>
+      </div>
 
-    <script type="text/javascript" src="meta/data-markdown.user.js"></script>
-  </body>
-</html>
+      <script type="text/javascript" src="meta/data-markdown.user.js"></script>
+      </body>
+      </html>
