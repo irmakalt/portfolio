@@ -19,44 +19,40 @@
   <body>
     <script type="text/javascript">
       document.write(menu);
-      $(document).ready(function () {
-          $("#k1").cycle({
-              fx: "fade", speed: "2000",
-              timeout: 0,
-              next: "#k1-next", prev: "#k1-prev" });
-
-          $(document).keydown(function(evt) {
-              if (evt.keyCode == 39) // Right Arrow
-                  $("#k1-next").click();
-              if (evt.keyCode == 37) // Left Arrow
-                  $("#k1-prev").click();
-        });
-      });
     </script>
 
     <div id="content" data-markdown>
       <div class="kiosk" id="k1">
-        <div><img src="2DeMarbre/DM-2.JPG"/><p><strong><em>De marbre</em></strong>, 2013<br />
-         Série de quatre collages, adhèsifs, encres, papier rivoli blanc 160g/m2. Format 70x70 cm</p>
-        <p>Exposition CÙN 村, Atelier Alain Lebras, Nantes 2014 </p></div>
-        <div><img src="2DeMarbre/DM-1.jpg"/><p><strong><em>De marbre</em></strong>, 2013<br />
-         Série de quatre collages, adhèsifs, encres, papier rivoli blanc 160g/m2. Format 70x70 cm</p>
-        <p>Exposition CÙN 村, Atelier Alain Lebras, Nantes 2014 </p></div>
-        <div><img src="2DeMarbre/DM-3.JPG"/><p><strong><em>De marbre</em></strong>, 2013<br />
-         Série de quatre collages, adhèsifs, encres, papier rivoli blanc 160g/m2. Format 70x70 cm</p>
-        <p>Exposition CÙN 村, Atelier Alain Lebras, Nantes 2014 </p></div>
-        <div><img src="2DeMarbre/DM-4.JPG"/><p><strong><em>De marbre</em></strong>, 2013<br />
-         Série de quatre collages, adhèsifs, encres, papier rivoli blanc 160g/m2. Format 70x70 cm</p>
-        <p>Exposition CÙN 村, Atelier Alain Lebras, Nantes 2014 </p></div>
+
+        <div><img src="2013-DeMarbre/DM-2.JPG"/><p><strong><em>De marbre</em></strong>, 2013<br />
+        <p>Série de quatre collages, adhèsifs, encres, papier rivoli blanc 160g/m2
+        <br/>Format 70x70 cm
+        <br/>Exposition CÙN 村, Atelier Alain Lebras, Nantes 2014 </p></div>
+        <br/>
+        <br/>
+
+        <div><img src="2013-DeMarbre/DM-1.jpg"/><p></p></div>
+        <br/>
+        <br/>
+
+        <div><img src="2013-DeMarbre/DM-3.JPG"/><p></p></div>
+        <br/>
+        <br/>
+
+        <div><img src="2013-DeMarbre/DM-4.JPG"/><p></p></div>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+
       </div>
       <div class="legend">
-
-        <a id="k1-prev" href="#">Prev</a> | <a id="k1-next" href="#">Next</a>
-        <span id="num"></span>
       </div>
 
-    </div>
+      </div>
 
-    <script type="text/javascript" src="meta/data-markdown.user.js"></script>
-  </body>
-</html>
+      <script type="text/javascript" src="meta/data-markdown.user.js"></script>
+      </body>
+      </html>
