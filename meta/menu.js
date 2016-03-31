@@ -12,7 +12,7 @@ var menu = " \
       * [7 pour 13](2015-7pour13.htm) \
       * [Sans tête](2015-SansTete.htm) \
       * [Drapeau](2015-Drapeau.htm) \
-      * [Piscine](2013-Piscine123.htm) \
+      * [Piscine](2013-Piscine.htm) \
       * [De marbre](2013-DeMarbre.htm) \
       * [X.Beijing](2013-XBeijing.htm) \
       * [Sans titre](2012-SansTitre.htm) \
