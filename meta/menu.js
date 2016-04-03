@@ -8,7 +8,7 @@ var menu = " \
       * [~ atelier ~](atelier.htm) \
       * [à Nout](2016-aNout.htm) \
       * [Pour la nuit](2016-PourLaNuit.htm) \
-      * [Extrait](2015-Busan.htm) \
+      * [Extrait #1](2015-Busan.htm) \
       * [7 pour 13](2015-7pour13.htm) \
       * [Sans tête](2015-SansTete.htm) \
       * [Drapeau](2015-Drapeau.htm) \
