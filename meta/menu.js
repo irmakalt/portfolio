@@ -1,4 +1,4 @@
-var menu = " \
+tvar menu = " \
     <div id=\"menu\" data-markdown> \
       # [IRMA KALT](index.htm) \
       <br/> \
@@ -11,7 +11,7 @@ var menu = " \
       * [Extrait #1](2015-Busan.htm) \
       * [7 pour 13](2015-7pour13.htm) \
       * [Sans tête](2015-SansTete.htm) \
-      * [Drapeau](2015-Drapeau.htm) \
+      * [L'ombre des choses / Drapeau #1](2015-Drapeau.htm) \
       * [Piscine](2013-Piscine.htm) \
       * [De marbre](2013-DeMarbre.htm) \
       * [X.Beijing](2013-XBeijing.htm) \
